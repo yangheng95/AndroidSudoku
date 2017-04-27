@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+    <item android:id="@+id/undo"
+        android:title="@string/undo"
+        android:visible="true"
+        android:icon="@drawable/back"
+        android:orderInCategory="80"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/showtheanswers"
+        android:title="@string/showtheanswers"
+        android:visible="true"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+         />
+    <item android:id="@+id/share"
+        android:title="分享"
+        android:visible="true"
+        android:icon="@drawable/share"
+        android:orderInCategory="110"
+        app:actionViewClass="android.support.v7.widget.ShareView"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/gameprest"
+        android:title="@string/gamereset"
+        android:visible="true"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/restart"
+        android:title="@string/newgame"
+        android:visible="true"
+        android:icon="@drawable/restart"
+        android:orderInCategory="95"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/info"
+        android:title="@string/information"
+        android:orderInCategory="120"
+        android:visible="true"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/exit"
+        android:title="@string/exit"
+        android:orderInCategory="130"
+        android:visible="true"
+        app:showAsAction="never"
+        />
+</menu>

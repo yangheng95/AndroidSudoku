@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center"
+    >
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="fill_parent"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+     />
+    <TextView
+        android:id="@+id/sharetext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="扫面二维码下载应用"
+        android:gravity="center"
+        android:layout_below="@+id/imageview"
+     />
+
+</RelativeLayout>

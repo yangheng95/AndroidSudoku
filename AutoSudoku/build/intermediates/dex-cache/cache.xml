@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_884123467233a7b16679b63bd00d075c9301641b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_4eee89520d841eb182834f76818d549e38c97f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_87b67d0cffefe21631d6ed3df75fa2ec2975d84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_cd693f08c3eaf58b0f41fa75bc6370159bbd3352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chuan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_f9fda53f907d0fd8c18a3184d0f7df9c350c5084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_efa559c2474c0f76edcb6de3787e0659b4a0a819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_33b9dd9431da6cc36f9d4720087ed8f026e14673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_07412d585d429d80f6045fcbf8a832d378c43b41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_04c3ee1bb26f7051286f67bc446bf2bae85f29e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\AutoSudoku\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_c1e18d1cc8e65b873d810588df6590d578ff2b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Android Studio Backup\AutoSudoku\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_16653065e41336ccb4f0e6dcd5e61f2ea8503653.jar" />
+    </item>
+
+</items>

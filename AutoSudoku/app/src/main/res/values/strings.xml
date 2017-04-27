@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">数独</string>
+    <string name="setting_title">菜单</string>
+    <string name="showtheanswers">显示答案</string>
+    <string name="app_detail">数独是流传已久的数字游戏，要求填入每一行，每一列的元素不重复,
+                        每个小九宫格元素也不重复,填完所有格子即完成游戏,
+                        严格的数独游戏要求答案是唯一的,由于数独的求解是NP问题,换言之,
+                        判断随机生成的数度谜题有没有唯一解的方法就是,解解看呗QAQ,
+                        作者必须在随机生成数独谜题的情况下,保证解的唯一性,会导致计算量不是固定的,
+                        所以可能要花一些时间才能计算出一个唯一解的数独，计算时间取决于设备性能
+                        </string>
+    <string name="newgame">新游戏</string>
+    <string name="information">游戏说明</string>
+    <string name="undo">撤销输入</string>
+    <string name="gamereset">重置游戏</string>
+    <string name="exit">退出</string>
+</resources>
